@@ -1,0 +1,4 @@
+Ask user for var Height
+Check if the input is less than 1 or greater than 8 OR not an integer (Go back to step 1 if doesnt comply)
+Take number and create pyramid with number of rows
+    Print # for each i (height) and then go to new line.
